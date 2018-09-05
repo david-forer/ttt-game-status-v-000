@@ -22,6 +22,7 @@ WIN_COMBINATIONS = [
       win_index_3 = win_combination[2]
       
       position_1 = win_index_1
+      
     end  
     
   end
