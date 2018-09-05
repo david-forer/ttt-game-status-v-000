@@ -25,7 +25,7 @@ WIN_COMBINATIONS = [
       position_2 = win_index_2
       position_3 = win_index_3
       
-      if
+      if position_1
       
       
     end  
